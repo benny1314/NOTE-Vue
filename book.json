@@ -3,7 +3,8 @@
                 "advanced-emoji",
                 "-search",
                 "search-pro",
-                "github"
+                "github",
+                "navigator"
     ],
     "pluginsConfig": {
         "theme-api": {
