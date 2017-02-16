@@ -2,7 +2,8 @@
     "plugins": [ "theme-api",
                 "advanced-emoji",
                 "-search",
-                "search-pro"
+                "search-pro",
+                "github"
     ],
     "pluginsConfig": {
         "theme-api": {
@@ -26,6 +27,9 @@
         "search-pro": {
             "cutWordLib": "nodejieba",
             "defineWord" : ["Gitbook Use"]
+        },
+        "github": {
+            "url": "https://github.com/zhangjikai"
         }
     }
 }
