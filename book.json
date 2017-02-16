@@ -1,5 +1,5 @@
 {
-    "plugins": [ "theme-api" ],
+    "plugins": [ "theme-api" ,"advanced-emoji"],
     "pluginsConfig": {
         "theme-api": {
             "languages": [
