@@ -1,4 +1,4 @@
-哈哈哈哈哈哈
+![](/assets/cover.png)哈哈哈哈哈哈
 
 
 :smile:
