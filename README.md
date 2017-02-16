@@ -2,3 +2,6 @@
 
 
 :smile:
+
+    pulic static void main(string[] args){
+    }
