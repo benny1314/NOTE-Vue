@@ -4,7 +4,6 @@
         "-search",
         "search-pro",
         "github",
-        "ace",
         "prism",
         "-highlight",
         "toggle-chapters",
@@ -28,11 +27,11 @@
         "advanced-emoji": {
             "embedEmojis": true
         },
-        "prism":{
-            "lang":{
-                "flow":"typescript"
+        "prism": {
+            "lang": {
+                "flow": "typescript"
             },
-            "css":[
+            "css": [
                 "prismjs/themes/prism-okaidia.css"
             ]
         }
