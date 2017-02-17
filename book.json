@@ -44,7 +44,7 @@
         },
         "prism":{
             "lang":{
-            "flow":"typescripte"
+                "flow":"typescripte"
             },
             "css":[
                 "prismjs/themes/prism-okaidia.css"
