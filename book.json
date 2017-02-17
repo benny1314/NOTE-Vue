@@ -1,4 +1,5 @@
-{
+{   "title": "Gitbook use",
+    "language":"zh-hans",
     "plugins": [
         "theme-api",
         "advanced-emoji",
@@ -6,7 +7,8 @@
         "search-pro",
         "github",
         "navigator",
-        "ace"
+        "ace",
+        "prism"
     ],
     "pluginsConfig": {
         "theme-api": {
