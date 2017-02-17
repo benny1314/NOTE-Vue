@@ -1,6 +1,5 @@
 {
     "plugins": [
-        "theme-api",
         "advanced-emoji",
         "-search",
         "search-pro",
