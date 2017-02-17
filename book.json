@@ -1,10 +1,12 @@
 {
-    "plugins": [ "theme-api",
-                "advanced-emoji",
-                "-search",
-                "search-pro",
-                "github",
-                "navigator"
+    "plugins": [
+        "theme-api",
+        "advanced-emoji",
+        "-search",
+        "search-pro",
+        "github",
+        "navigator",
+        "ace"
     ],
     "pluginsConfig": {
         "theme-api": {
@@ -23,14 +25,19 @@
         "fontsettings": {
             "theme": "sepia",
             "family": "serif",
-            "size":  1
+            "size": 1
         },
         "search-pro": {
             "cutWordLib": "nodejieba",
-            "defineWord" : ["Gitbook Use"]
+            "defineWord": [
+                "Gitbook Use"
+            ]
         },
         "github": {
             "url": "https://github.com/benny1314"
+        },
+        "advanced-emoji": {
+            "embedEmojis": true
         }
     }
 }
