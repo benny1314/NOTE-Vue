@@ -29,6 +29,9 @@
             "embedEmojis": true
         },
         "prism":{
+            "lang":{
+                "flow":"typescript"
+            },
             "css":[
                 "prismjs/themes/prism-okaidia.css"
             ]
