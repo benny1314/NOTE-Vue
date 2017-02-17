@@ -35,7 +35,5 @@
                 "prismjs/themes/prism-okaidia.css"
             ]
         }
-    },
-    "title": "Gitbook use",
-    "language": "zh-hans"
+    }
 }
