@@ -40,6 +40,11 @@
         },
         "advanced-emoji": {
             "embedEmojis": true
+        },
+        "prism":{
+            "css":[
+                "prismjs/themes/prism-solarizedlight.css"
+            ]
         }
     },
     "title": "Gitbook use",
