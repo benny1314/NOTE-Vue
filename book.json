@@ -43,6 +43,9 @@
             "embedEmojis": true
         },
         "prism":{
+            "lang":{
+            "flow":"typescripte"
+            },
             "css":[
                 "prismjs/themes/prism-okaidia.css"
             ]
