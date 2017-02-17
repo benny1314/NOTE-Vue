@@ -10,11 +10,6 @@
         "splitter"
     ],
     "pluginsConfig": {
-        "fontsettings": {
-            "theme": "sepia",
-            "family": "serif",
-            "size": 1
-        },
         "search-pro": {
             "cutWordLib": "nodejieba",
             "defineWord": [
