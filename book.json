@@ -1,14 +1,14 @@
-{   "title": "Gitbook use",
-    "language":"zh-hans",
+{
     "plugins": [
         "theme-api",
         "advanced-emoji",
         "-search",
         "search-pro",
         "github",
-        "navigator",
         "ace",
-        "prism"
+        "prism",
+        "toggle-chapters",
+        "splitter"
     ],
     "pluginsConfig": {
         "theme-api": {
@@ -41,5 +41,7 @@
         "advanced-emoji": {
             "embedEmojis": true
         }
-    }
+    },
+    "title": "Gitbook use",
+    "language": "zh-hans"
 }
