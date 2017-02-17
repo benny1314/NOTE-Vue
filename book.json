@@ -12,19 +12,6 @@
         "splitter"
     ],
     "pluginsConfig": {
-        "theme-api": {
-            "languages": [
-                {
-                    "lang": "js",
-                    "name": "JavaScript",
-                    "default": true
-                },
-                {
-                    "lang": "go",
-                    "name": "Go"
-                }
-            ]
-        },
         "fontsettings": {
             "theme": "sepia",
             "family": "serif",
