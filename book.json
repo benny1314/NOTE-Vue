@@ -7,7 +7,7 @@
         "github",
         "ace",
         "prism",
-        "-hidhlight",
+        "-highlight",
         "toggle-chapters",
         "splitter"
     ],
